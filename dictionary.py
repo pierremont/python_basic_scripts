@@ -22,4 +22,4 @@ phone = info.pop('phone') #removes a record from the dictionary and passes the v
 
 '''looping'''
 # for i in info: print(i) #loops through the keys only
-for i, j in info.items(): print(i, j) #loops through the keys only
+for i, j in info.items(): print(i, j) #loops through the keys and values
